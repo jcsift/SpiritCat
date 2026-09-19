@@ -4,7 +4,7 @@
 
 ![灵猫网络(SpiritCat)](https://i.eoht.net/airport/spiritcat_logo.webp)
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/spiritcat) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/spiritcat) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 灵猫网络（SpiritCat）主打 **IPLC 专线**，采用 **VLESS 协议**，由海外团队运营。月付套餐从 **¥25、150GB/月**起；年付小包为 **¥85/年、45GB/月**，折合约 **¥7.08/月**。新人可使用 **8 折优惠码 `lingmao`**，服务介绍还列有流媒体、社交媒体、AI 工具解锁及企业直播定制。
 
