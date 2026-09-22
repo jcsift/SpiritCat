@@ -104,3 +104,5 @@
 线路选择可参考[IPLC 与 IEPL 专线说明](https://eoht.net/serve/routes/dedicated-line)，继续比较套餐可返回[机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)。
 
 [查看灵猫网络套餐](https://eoht.net/serve/airport/spiritcat)
+
+[机场优惠码汇总](https://github.com/jcsift/airport-summary/blob/main/coupons.md) · [机场卡片汇总](https://github.com/jcsift/airport-summary/blob/main/cards.md)
